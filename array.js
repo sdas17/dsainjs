@@ -18,3 +18,6 @@ function consecutiveNumber(num) {
 
 let dummy = [1, 1, 0, 1,1,1,1,1,0,0,0,0];
 console.log(consecutiveNumber(dummy)); // Output will be 2
+
+
+# find they all number disapred in array
